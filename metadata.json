@@ -1,0 +1,6 @@
+{
+  "name": "Distributed Cache Visualizer",
+  "description": "Miniature distributed cache system using the MERN stack with Consistent Hashing to visualize scalability and fault tolerance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
